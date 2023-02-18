@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kRQp7ugcR3QsWvGjKv86SuZXH/+u6mrgjkawyvNeZoC9yvrzwybdHXe7k1jA38A5NUF8Um2dMJQcSCVBdUhRFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akerm\\source\\repos\\52-weeks-of-software\\Week 1\\Textifyer\\Textifyer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akerm\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\akerm\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\akerm\\.nuget\\packages\\system.drawing.common\\5.0.1\\system.drawing.common.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
